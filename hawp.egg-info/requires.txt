@@ -1,0 +1,16 @@
+torch
+torchvision
+opencv-python
+cython
+matplotlib
+yacs
+scikit-image
+tqdm
+python-json-logger
+h5py
+shapely
+seaborn
+easydict
+
+[dev]
+pycolmap

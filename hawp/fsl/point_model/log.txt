@@ -1,0 +1,4 @@
+2025-08-11 16:28:51,457 hawp.testing INFO: Namespace(config='configs/plnet.yaml', ckpt='hawp/fsl/point_model/point_model.pth', dataset='wireframe', j2l=None, jhm=None, rscale=2, seed=42, output=None)
+2025-08-11 16:28:51,457 hawp.testing INFO: Loaded configuration file configs/plnet.yaml
+2025-08-11 16:29:34,788 hawp.testing INFO: Namespace(config='configs/plnet.yaml', ckpt='hawp/fsl/point_model/point_model.pth', dataset='wireframe', j2l=None, jhm=None, rscale=2, seed=42, output=None)
+2025-08-11 16:29:34,788 hawp.testing INFO: Loaded configuration file configs/plnet.yaml

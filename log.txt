@@ -1,0 +1,2 @@
+2025-06-05 10:33:04,206 hawp.testing INFO: Namespace(config='configs/plnet.yaml', ckpt='/home/pplw/PLNet-master/data', dataset='wireframe', j2l=None, jhm=None, rscale=2, seed=42, output=None)
+2025-06-05 10:33:04,206 hawp.testing INFO: Loaded configuration file configs/plnet.yaml

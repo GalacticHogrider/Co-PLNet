@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: hawp
+Version: 1.0
+Summary: Holistically-Attracted Wireframe Parsing
+Author: nxue
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: opencv-python
+Requires-Dist: cython
+Requires-Dist: matplotlib
+Requires-Dist: yacs
+Requires-Dist: scikit-image
+Requires-Dist: tqdm
+Requires-Dist: python-json-logger
+Requires-Dist: h5py
+Requires-Dist: shapely
+Requires-Dist: seaborn
+Requires-Dist: easydict
+Provides-Extra: dev
+Requires-Dist: pycolmap; extra == "dev"
+Dynamic: author
+Dynamic: license-file
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary
